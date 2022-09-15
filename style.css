@@ -1,0 +1,16 @@
+.galley img {
+        width: 100%;
+}
+
+# menu{
+      width:100%;
+      height:40px;
+      background-color: cornflowerblue;
+      padding: top 12px;
+
+}
+#menu a{
+       colorr: #ffffff;
+       font-family:Helvetico,sans-seri;
+       font-size:18px;
+}
